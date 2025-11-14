@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/.f0f4613f19a60a4f5e0aae46fd450f98b40662cd-audit.json",
+    "files": [
+        {
+            "date": 1762385015493,
+            "name": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/error-2025-11-05.log",
+            "hash": "73fd07afa94b57a114f30e37ed6cb8160177ede309d925c76efb3792f6f005c4"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/.ce523295f3226d33d6e5f845cde9c6cba078392c-audit.json",
+    "files": [
+        {
+            "date": 1762385646105,
+            "name": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/2025-11-05-combined.log",
+            "hash": "316596db17b8161d94fe8515c8bff42368c6fba0bf3458ffd2a713483f46092b"
+        },
+        {
+            "date": 1762534425728,
+            "name": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/2025-11-07-combined.log",
+            "hash": "a09848452081eb1d4e325c4645e39a94d33ba3419499b39b75caa02a72b034ec"
+        },
+        {
+            "date": 1762816283174,
+            "name": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/2025-11-10-combined.log",
+            "hash": "89c09b894bc90036e91164b6e32f6f74a9419e556b974f8532bfa2bbf5876ded"
+        },
+        {
+            "date": 1763140804049,
+            "name": "/Users/alexmoranguzman/Library/Mobile Documents/com~apple~CloudDocs/Grupo Altea/Codes/Calculadora RESICO Premium/Backend/logs/2025-11-14-combined.log",
+            "hash": "88c6cf8bf2e0c1c0fb046d7906a87cde3c2b8f297ecc309187929636dbd56be4"
+        }
+    ],
+    "hashType": "sha256"
+}

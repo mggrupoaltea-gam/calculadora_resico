@@ -1,0 +1,25 @@
+[2025-10-17 08:53:12] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 08:53:13] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 09:04:02] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 09:04:03] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 09:15:44] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 09:15:44] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:02:49] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:02:50] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:07:34] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:07:34] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:14:13] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:14:14] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:16:26] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:16:27] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:21:40] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:21:40] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-10-17 14:24:15] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-10-17 14:24:15] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-11-05 16:58:04] INFO: 🚀 Servidor corriendo en http://localhost:3000
+[2025-11-05 16:58:05] INFO: ✅ Tabla 'calculos_resico' lista.
+[2025-11-05 17:04:20] INFO: 💡 Datos recibidos: {"ingresos":25000,"retenciones":1000,"tasa_aplicada":"1.00%","isr":150}
+[2025-11-05 17:04:34] INFO: 📊 Historial obtenido (11 registros)
+[2025-11-05 17:30:29] INFO: 💡 Datos recibidos: {"ingresos":25000,"retenciones":1000,"tasa_aplicada":"1.00%","isr":150}
+[2025-11-05 17:30:42] INFO: 📊 Historial obtenido (12 registros)
+[2025-11-05 17:42:42] INFO: 💡 Datos recibidos: {"ingresos":10000,"retenciones":500,"tasa_aplicada":"1.00%","isr":95}
